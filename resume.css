@@ -135,35 +135,35 @@ body {
 }
 
 #card1 {
-  background-image: url(/assets/img/Snapseed.jpeg);
+  background-image: url(Snapseed.jpeg);
   background-size:150%;
   background-color: #e9e3e3;
   background-position: left;
 }
  #card3 {
-  background-image: url(/assets/img/IMG_1864.jpeg);
+  background-image: url(IMG_1864.jpeg);
   background-size:cover;
   background-position: top;
 }
  #card5 {
-  background-image: url(/assets/img/IMG_1440.jpeg);
+  background-image: url(IMG_1440.jpeg);
   background-position: top right;
 }
  #card6 {
-  background-image: url(/assets/img/IMG_3059.jpeg);
+  background-image: url(IMG_3059.jpeg);
 }
 
 #card2 {
-  background-image: url(/assets/img/IMG_2743.jpeg);
+  background-image: url(IMG_2743.jpeg);
 }
  #card4{
-  background-image: url(/assets/img/IMG_1422.jpeg);
+  background-image: url(IMG_1422.jpeg);
 }
  #card7 {
-  background-image: url(/assets/img/IMG_5293.jpeg);
+  background-image: url(IMG_5293.jpeg);
 }
 #card8 {
-  background-image: url(/assets/img/IMG_1862.jpeg);
+  background-image: url(IMG_1862.jpeg);
 }
 
 .card-title {
